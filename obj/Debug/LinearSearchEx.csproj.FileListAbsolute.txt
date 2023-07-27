@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\LinearSearchEx\LinearSearchEx\bin\Debug\LinearSearchEx.exe.config
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\LinearSearchEx\LinearSearchEx\bin\Debug\LinearSearchEx.exe
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\LinearSearchEx\LinearSearchEx\bin\Debug\LinearSearchEx.pdb
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\LinearSearchEx\LinearSearchEx\obj\Debug\LinearSearchEx.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\LinearSearchEx\LinearSearchEx\obj\Debug\LinearSearchEx.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\LinearSearchEx\LinearSearchEx\obj\Debug\LinearSearchEx.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\LinearSearchEx\LinearSearchEx\obj\Debug\LinearSearchEx.exe
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\LinearSearchEx\LinearSearchEx\obj\Debug\LinearSearchEx.pdb
